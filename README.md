@@ -14,13 +14,16 @@ $ yaourt -S mist
 
 ## Learning Solidity
 
-https://solidity.readthedocs.io/en/develop/solidity-by-example.html
+[https://solidity.readthedocs.io/en/develop/solidity-by-example.html](https://solidity.readthedocs.io/en/develop/solidity-by-example.html)
 
-https://ethereum.github.io/browser-solidity/
+[https://ethereum.github.io/browser-solidity/](https://ethereum.github.io/browser-solidity/)
 
+## Choosing a Wallet
 
+We tried two GUI clients:
 
-
+* Ethereum Wallet
+* Mist
 
 
 
