@@ -10,15 +10,5 @@ One thing which really bite us was that you have to use addresses in the input f
 
 ![](/assets/remix.png)
 
-![](/assets/remix.png)
 
-![](/assets/remix.png)
-
-![](/assets/remix.png)
-
-![](/assets/remix.png)
-
-![](/assets/remix.png)
-
-![](/assets/remix.png)
 
