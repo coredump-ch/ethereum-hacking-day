@@ -2,9 +2,13 @@
 
 [https://www.ethereum.org/cli\#connecting-to-a-private-test-net](https://www.ethereum.org/cli#connecting-to-a-private-test-net)
 
+https://github.com/chafey/ethereum-private-network
+
 ## Creating the Genesis Block
 
-https://blog.ethereum.org/2015/07/27/final-steps/
+You don't actually need to do this, if you use  https://github.com/chafey/ethereum-private-network.
+
+[https://blog.ethereum.org/2015/07/27/final-steps/](https://blog.ethereum.org/2015/07/27/final-steps/)
 
 ```
 curl -O https://raw.githubusercontent.com/ethereum/genesis_block_generator/master/mk_genesis_block.py
@@ -17,7 +21,7 @@ mkvirtualenv --python=python2 ether_genesis -a $PWD
 pip install bitcoin==1.1.35
 ```
 
-Execute the script with the given hash \([https://twitter.com/DeathRowDemo/status/627572730699722752](https://www.gitbook.com/book/coredump-ch/ethereum-hacking-day/edit#)\)
+Execute the script with the given hash \([https://twitter.com/DeathRowDemo/status/627572730699722752](https://www.gitbook.com/book/coredump-ch/ethereum-hacking-day/edit#\)\)
 
 ```
 python mk_genesis_block.py  --extra-data  0x11bbe8db4e347b4e8c937c1c8370e4b5ed33adb3db69cbdb7a38e1e50b1b82fa  > genesis_block.json
