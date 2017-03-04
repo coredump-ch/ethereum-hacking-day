@@ -18,6 +18,13 @@ Then install mist from [AUR](https://aur.archlinux.org/packages/mist/):
 $ yaourt -S mist
 ```
 
+### Mac OSX
+
+```
+$ brew tap ethereum/ethereum
+$ brew cask install ethereum
+```
+
 ## Learning Solidity
 
 [https://solidity.readthedocs.io/en/develop/solidity-by-example.html](https://solidity.readthedocs.io/en/develop/solidity-by-example.html)
