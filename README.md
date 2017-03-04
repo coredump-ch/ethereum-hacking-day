@@ -27,11 +27,13 @@ $ brew cask install ethereum
 
 ## Start the Testnet
 
-There are issues with the GUI-Clients. So I suggest to use the following to get started fast \(about 15min\).
+There are issues with the GUI-clients. So I suggest to use the following to get started fast \(about 15min\).
 
 ```
 $ geth --fast --testnet
 ```
+
+If you already started synchronizing with the GUI-client then you may want to delete the chaindata folder before starting _geth_.
 
 ## Learning Solidity
 
