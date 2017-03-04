@@ -4,13 +4,15 @@ We played around with Ethereum in the coredump hackerspace and these are our fin
 
 ## Download the Etereum Client
 
-On ArchLinux
-
+On ArchLinux install geth:
+```
 $ sudo pacman -S geth
+```
 
-Then install mist from AUR
-
+Then install mist from [AUR](https://aur.archlinux.org/packages/mist/):
+```
 $ yaourt -S mist
+```
 
 ## Learning Solidity
 
