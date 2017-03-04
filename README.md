@@ -20,12 +20,7 @@ $ yaourt -S mist
 
 [https://ethereum.github.io/browser-solidity/](https://ethereum.github.io/browser-solidity/)
 
-## Choosing a Wallet
 
-We tried two GUI clients:
-
-* Ethereum Wallet
-* Mist
 
 
 
